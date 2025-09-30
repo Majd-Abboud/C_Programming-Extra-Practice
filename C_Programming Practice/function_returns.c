@@ -26,7 +26,7 @@ int min(){
 
 }
 
-printf("hi");
+
 
 int main(){
 
