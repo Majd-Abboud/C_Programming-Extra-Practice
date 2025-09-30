@@ -21,6 +21,10 @@ bool ageCheck(int age){
 
 }
 
+int min(){
+
+    
+}
 
 int main(){
 
