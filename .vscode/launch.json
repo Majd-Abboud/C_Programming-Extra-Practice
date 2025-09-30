@@ -8,10 +8,9 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "/workspaces/C_Programming-Extra-Practice/C_Programming Practice",
-      "program": "/workspaces/C_Programming-Extra-Practice/C_Programming Practice/build/Debug/outDebug",
+      "cwd": "/workspaces/C_Programming-Extra-Practice",
+      "program": "/workspaces/C_Programming-Extra-Practice/build/Debug/outDebug",
       "MIMode": "gdb",
-      
       "miDebuggerPath": "gdb",
       "setupCommands": [
         {
