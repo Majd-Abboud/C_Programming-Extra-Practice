@@ -7,7 +7,7 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
+      "externalConsole": false,
       "cwd": "/workspaces/C_Programming-Extra-Practice",
       "program": "/workspaces/C_Programming-Extra-Practice/build/Debug/outDebug",
       "MIMode": "gdb",
