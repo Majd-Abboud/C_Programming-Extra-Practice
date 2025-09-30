@@ -23,8 +23,10 @@ bool ageCheck(int age){
 
 int min(){
 
-    
+
 }
+
+printf("hi");
 
 int main(){
 
