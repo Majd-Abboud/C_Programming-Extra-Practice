@@ -40,7 +40,7 @@ int main(){
         printf("Not an operator try again\n!");
     }
 
-    printf("Result: %.2f", result);
+    printf("Result: %.2f\n", result);
 
 
     return 0;
